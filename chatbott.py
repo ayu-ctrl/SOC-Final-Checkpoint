@@ -22,7 +22,6 @@ from nltk.stem import WordNetLemmatizer
 
 lemmatizer = WordNetLemmatizer()
 
-# Sample intents (replace with your own)
 intents = {
     "intents": [
         {"tag": "greeting", "patterns": ["Hello", "Hi there!", "How are you?"]},
