@@ -5,28 +5,28 @@ As a beginner, my goal was to explore both the theoretical foundations and pract
 
 Python programming basics: including variables, loops, functions, and syntax
 
-1.Data handling using Pandas and NumPy
+1. Data handling using Pandas and NumPy
 
-2.Data visualization with Matplotlib and Seaborn
+2. Data visualization with Matplotlib and Seaborn
 
-3.Supervised and unsupervised machine learning concepts
+3. Supervised and unsupervised machine learning concepts
 
-4.Classification algorithms like Logistic Regression
+4. Classification algorithms like Logistic Regression
 
-5.Feature Engineering and Time Series Forecasting
+5. Feature Engineering and Time Series Forecasting
 
-6.Natural Language Processing (NLP) for chatbot development
+6. Natural Language Processing (NLP) for chatbot development
 
 I also used hands-on tools such as Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK, and TensorFlow.
 
 By the end of this project, I was able to implement several real-world mini-projects:
 
-1.A house price prediction model using regression
+1. A house price prediction model using regression
 
-2.An Iris dataset classifier using logistic regression
+2. An Iris dataset classifier using logistic regression
 
-3.A stock price prediction system using Long Short-Term Memory (LSTM) model, which is a type of Recurrent Neural Network (RNN)
+3. A stock price prediction system using Long Short-Term Memory (LSTM) model, which is a type of Recurrent Neural Network (RNN)
 
-4.And finally, I was able to built a basic chatbot built with NLP and a simple neural network
+4. And finally, I was able to built a basic chatbot built with NLP and a simple neural network
 
 These projects helped me bridge the gap between theoretical knowledge and practical machine learning implementation.
